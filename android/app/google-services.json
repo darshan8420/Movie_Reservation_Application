@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "410500871110",
+    "project_id": "flutter-authentication-a-b80a8",
+    "storage_bucket": "flutter-authentication-a-b80a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410500871110:android:da39faf7d09f99ef8cf8c7",
+        "android_client_info": {
+          "package_name": "com.example.movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410500871110-3f8ti7u8la07gmcem5c6vg4ncqb17fct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBweRRCBELOLD4uwOnZ_aqvfagOlJKljas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410500871110-3f8ti7u8la07gmcem5c6vg4ncqb17fct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410500871110-o95sr4i8lk6d9310rgjm3g5audtji27b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.travelapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410500871110:android:7787393f13bdb8b28cf8c7",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410500871110-3f8ti7u8la07gmcem5c6vg4ncqb17fct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBweRRCBELOLD4uwOnZ_aqvfagOlJKljas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410500871110-3f8ti7u8la07gmcem5c6vg4ncqb17fct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410500871110-o95sr4i8lk6d9310rgjm3g5audtji27b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.travelapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410500871110:android:cc6bf240878802d48cf8c7",
+        "android_client_info": {
+          "package_name": "com.mycompany.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410500871110-3f8ti7u8la07gmcem5c6vg4ncqb17fct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBweRRCBELOLD4uwOnZ_aqvfagOlJKljas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410500871110-3f8ti7u8la07gmcem5c6vg4ncqb17fct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410500871110-o95sr4i8lk6d9310rgjm3g5audtji27b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.travelapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
