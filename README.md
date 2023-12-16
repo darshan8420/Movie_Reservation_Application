@@ -1,6 +1,6 @@
 ## Movie_Reservation_App
 
-A new Flutter project.
+This repository contains the source code for a movie reservation application, designed to streamline the process of booking and managing movie tickets. The application provides users with a user-friendly interface to browse available movies, select showtimes, and reserve seats for their preferred screenings.
 
 ## Getting Started
 
